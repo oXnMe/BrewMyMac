@@ -24,6 +24,7 @@ harfbuzz
 highway
 icu4c@76
 icu4c@77
+icu4c@78
 imath
 jpeg-turbo
 jpeg-xl
@@ -67,7 +68,7 @@ little-cms2
 lz4
 lzo
 m4
-mbedtls
+mbedtls@3
 mintoolkit
 mpg123
 nali
